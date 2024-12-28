@@ -1,0 +1,45 @@
+#bis-notify-container {
+  margin-top: 10px;
+}
+
+#bis-notify-btn {
+  background-color: #0071a1;
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 5px;
+}
+
+#bis-notify-btn:hover {
+  background-color: #005f7f;
+}
+
+#bis-subscribe-form {
+  margin-top: 15px;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  background: #f9f9f9;
+}
+
+#bis-subscribe-form input {
+  width: 80%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+#bis-submit {
+  background-color: #28a745;
+  color: #fff;
+  border: none;
+  padding: 8px 15px;
+  cursor: pointer;
+  border-radius: 5px;
+  font-size: 14px;
+}
+
+#bis-submit:hover {
+  background-color: #218838;
+}
